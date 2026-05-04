@@ -96,7 +96,7 @@ root/
 │   │   ├── colour_Histogram_Testing.csv
 │   │   ├── HOG_Training.csv
 │   │   └── HOG_Testing.csv
-│   └── models/               # Place all pre-trained model files here
+│   └── Models/               # Place all pre-trained model files here
 └── README.md
 ```
 
@@ -133,7 +133,7 @@ https://drive.google.com/drive/folders/1F--y6rWHekOlLxou_b0SzIS___Stvg9K?usp=sha
 Create a folder named `models` inside the `Backend/` directory and place all downloaded model files there:
 
 ```
-Backend/models/
+Backend/Models/
 ```
 
 ### 5. Run the application
