@@ -54,11 +54,11 @@ Five supervised learning algorithms were trained and evaluated independently on 
 
 | Classifier | Key Characteristics |
 |------------|---------------------|
-| K-Nearest Neighbors (KNN) | Instance-based; sensitive to choice of k and feature dimensionality |
-| Support Vector Machine (SVM) | Linear kernel; effective in high-dimensional spaces |
-| Logistic Regression | Linear probabilistic model; uses L2 regularization and polynomial feature expansion for color histograms |
-| Decision Tree | Interpretable; prone to overfitting on high-dimensional features |
-| Naive Bayes | Gaussian variant; assumes feature independence |
+| K-Nearest Neighbors (KNN) | Instance-based, sensitive to choice of k and feature dimensionality |
+| Support Vector Machine (SVM) | Linear kernel, effective in high-dimensional spaces |
+| Logistic Regression | Linear probabilistic model, uses L2 regularization and polynomial feature expansion for color histograms |
+| Decision Tree | Interpretable, prone to overfitting on high-dimensional features |
+| Naive Bayes | Gaussian variant, assumes feature independence |
 
 ---
 
