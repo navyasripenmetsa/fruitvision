@@ -143,3 +143,5 @@ From the project root directory, run:
 ```bash
 streamlit run Streamlit_UI/Intro_UI.py
 ```
+**Presentation:** For individual model Colab notebooks, refer to the [Project Slides](https://drive.google.com/file/d/1zARHrs6ZwZLAd0yIhOCWu7nJR9Gkpb4v/view?usp=sharing)  
+**Demo:** [Video Walkthrough](https://youtu.be/z53GDs0PmNU?si=tJpYUTZ6EQhgib-Y)
